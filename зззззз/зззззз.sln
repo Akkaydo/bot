@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kulikov", "Kulikov.csproj", "{F6D13C3B-7E63-4818-82FF-492CFA60A902}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "тг.бот", "тг.бот", "{781B64C3-9CDC-4CB2-A1A9-292FE3CD70B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6D13C3B-7E63-4818-82FF-492CFA60A902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6D13C3B-7E63-4818-82FF-492CFA60A902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6D13C3B-7E63-4818-82FF-492CFA60A902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6D13C3B-7E63-4818-82FF-492CFA60A902}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5165DB7D-BE4F-4087-83B8-3765C9BCFF2A}
+	EndGlobalSection
+EndGlobal
